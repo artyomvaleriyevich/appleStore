@@ -1,0 +1,51 @@
+.footer{
+  &-content{
+    padding: 33px;
+    background: #FFFFFF;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.01);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    column-gap: 50px;
+  }
+  &-item{
+    font-family: 'Inter',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 20px;
+    color: #515759;
+    &-title{
+      font-family: 'Inter',sans-serif;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 22px;
+      color: #0C1014;
+    }
+    &-block{
+      display: flex;
+      column-gap: 25px;
+    }
+    &-number{
+      font-family: 'Inter',sans-serif;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 11px;
+      line-height: 20px;
+      color: #515759;
+    }
+    &-email{
+      font-family: 'Inter',sans-serif;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 11px;
+      line-height: 20px;
+      color: #1890FF;
+    }
+  }
+
+}
+.reactIcon{
+  fill: #1890FF;
+}

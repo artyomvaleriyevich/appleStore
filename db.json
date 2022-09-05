@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "image": "./products/Apple tv.png",
+      "title": "Apple TV",
+      "price": 199
+    },
+    {
+      "image": "https://softech.kg/image/cache/6bdc5d5651c53cc8ef36bcec5b9f6117.jpg",
+      "title": "asdads",
+      "price": "1234",
+      "id": 11
+    }
+  ]
+}
